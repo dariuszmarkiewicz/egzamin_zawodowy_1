@@ -1,3 +1,10 @@
+/*
+Program losuje haslo
+skladajce sie z duzych i malych liter
+oraz liczb
+*/
+
+
 #include <iostream>
 #include <ctime>
 
@@ -36,10 +43,6 @@ int main()
         }
 
     }
-
-
-
-
 
     return 0;
 }
