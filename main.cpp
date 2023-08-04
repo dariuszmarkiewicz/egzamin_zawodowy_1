@@ -1,7 +1,6 @@
 /*
 Program losuje haslo
-skladajce sie z duzych i malych liter
-oraz liczb
+skladajce sie z duzych i malych liter oraz liczb
 */
 
 
